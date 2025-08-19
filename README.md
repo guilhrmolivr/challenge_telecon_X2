@@ -1,4 +1,5 @@
-#Telecom X - Análise Preditiva de Churn de Clientes (Parte 2)#
+Telecom X - Análise Preditiva de Churn de Clientes (Parte 2)
+
 Este projeto foca na análise e modelagem preditiva da evasão de clientes (churn) para a empresa fictícia Telecom X. O objetivo principal é utilizar dados históricos para construir um modelo de machine learning capaz de prever quais clientes têm maior probabilidade de cancelar seus serviços, permitindo que a empresa tome ações proativas de retenção.
 
 🎯 Propósito da Análise
